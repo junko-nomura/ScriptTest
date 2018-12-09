@@ -34,6 +34,7 @@ public class Test : MonoBehaviour {
 			Debug.Log(array[i]);
 		}
 
+
 		//発展課題　Bossクラスを呼び出す
 		Boss lastboss = new Boss ();
 		for (int i = 0; i <= 10; i++) {
